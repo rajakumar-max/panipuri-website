@@ -1,10 +1,4 @@
-/**
-* Template Name: Platia
-* Template URL: https://bootstrapmade.com/platia-bootstrap-restaurant-template/
-* Updated: Aug 11 2025 with Bootstrap v5.3.7
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 @charset "UTF-8";
 
@@ -4201,5 +4195,14 @@ section,
 
 .whatsapp-btn:hover {
   transform: scale(1.05);
+}
+
+
+
+.bulk-orders-page .main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
